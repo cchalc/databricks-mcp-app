@@ -1,10 +1,10 @@
 bundle:
-  name: mcp-ai-dev-kit
+  name: cjc-mcp-ai-dev-kit
 
 resources:
   apps:
     mcp_ai_dev_kit:
-      name: "mcp-ai-dev-kit"
+      name: "cjc-mcp-ai-dev-kit"
       description: "AI Dev Kit MCP Server — 80+ Databricks tools for AI Playground"
       source_code_path: .
 

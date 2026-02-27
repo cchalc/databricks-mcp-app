@@ -42,7 +42,7 @@ databricks bundle deploy --profile <profile-name>
 databricks bundle run mcp_ai_dev_kit --profile <profile-name>
 ```
 
-> **Important:** The app name must start with `mcp-` for the Playground to discover it as a custom MCP server. The default name `mcp-ai-dev-kit` already handles this.
+> **Important:** The app name must start with `mcp-` for the Playground to discover it as a custom MCP server. If you use `cjc-mcp-ai-dev-kit`, auto-discovery may not work.
 
 ### Connect to AI Playground
 
